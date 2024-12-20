@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-13T12:22:38 IST" name="Default suite" finished-at="2024-12-13T12:22:38 IST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2024-12-13T12:22:38 IST" name="Default test" finished-at="2024-12-13T12:22:38 IST" duration-ms="48">
+      <class name="dataDrivenTestingAlternateDataProvier.DataProviderExampleToExtractDataFromClassNamedCustomizedDataProvider13122024">
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTestingAlternateDataProvier.DataProviderExampleToExtractDataFromClassNamedCustomizedDataProvider13122024@20f5239f]" started-at="2024-12-13T12:22:38 IST" name="LoginTest" data-provider="LoginData" finished-at="2024-12-13T12:22:38 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashrith@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTestingAlternateDataProvier.DataProviderExampleToExtractDataFromClassNamedCustomizedDataProvider13122024@20f5239f]" started-at="2024-12-13T12:22:38 IST" name="LoginTest" data-provider="LoginData" finished-at="2024-12-13T12:22:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dinesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTestingAlternateDataProvier.DataProviderExampleToExtractDataFromClassNamedCustomizedDataProvider13122024@20f5239f]" started-at="2024-12-13T12:22:38 IST" name="LoginTest" data-provider="LoginData" finished-at="2024-12-13T12:22:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- dataDrivenTestingAlternateDataProvier.DataProviderExampleToExtractDataFromClassNamedCustomizedDataProvider13122024 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
